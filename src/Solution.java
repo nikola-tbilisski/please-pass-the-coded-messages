@@ -83,7 +83,7 @@ public class Solution {
         }
 
 
-        System.out.println("Sum of digits " + sum + "\n" + "Rem num " + rem + "\n" + "Result num " + sbResult);
+        //System.out.println("Sum of digits " + sum + "\n" + "Rem num " + rem + "\n" + "Result num " + sbResult);
 
         return result;
     }
